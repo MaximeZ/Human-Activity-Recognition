@@ -242,7 +242,7 @@ ggplot(modRPP1)+labs(title="Figure 4.Accuracy metric for the RPART ")
 ![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12-1.png) 
 
 ##6.Conclusion
-Acorrding to the accuracy parameters RF and GBM models are by far the best methods to pick up. They give identical predictions and will be kept for the submission. The only thing to take into consideration is a relatively long time needed to get the models done(especially the rf model).
+Acorrding to the accuracy parameters RF and GBM models are by far the best methods to pick up. They give identical predictions and will be kept for the submission. Given the accuracy parameters we may guess no more than two misspecification cases within train set. The only thing to take into consideration is a relatively long time needed to get the models done(especially the rf model).
 
 
 
